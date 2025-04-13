@@ -30,11 +30,32 @@
 
 ---
 
-## 📊 GitHub Статистика
+## 💡 Мои принципы разработки
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frontdev333&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frontdev333&theme=chartreuse-dark" alt="GitHub Streak Stats" />
+  <table>
+    <tr>
+      <td align="center"><b>🧠 Чистый код</b></td>
+      <td align="center"><b>🔒 Безопасность</b></td>
+      <td align="center"><b>⚡ Производительность</b></td>
+    </tr>
+    <tr>
+      <td align="center">Пишу понятный и поддерживаемый код</td>
+      <td align="center">Следую лучшим практикам защиты данных</td>
+      <td align="center">Оптимизирую каждую строчку кода</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌱 Сейчас изучаю
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </div>
 
 ---
@@ -50,5 +71,8 @@
 ---
 
 <div align="center">
+  <blockquote>
+    <p>"Код — как юмор. Если его приходится объяснять, значит, что-то не так."</p>
+  </blockquote>
   <p>⭐️ From <b>Тимур Каменев</b> с 💚</p>
 </div>
