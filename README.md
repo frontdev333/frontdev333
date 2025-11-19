@@ -51,19 +51,11 @@
 ## 🌱 Сейчас изучаю
 
 <div align="center">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </div>
 
 ---
 
-## 📫 Связаться со мной
-
-<div align="center">
-  <a href="https://t.me/Timur_Kamenev">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
 
 ---
 
