@@ -1,4 +1,4 @@
-# Привет, я Тимур Каменев! 👋
+# Привет! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Backend+Developer;PHP+%7C+Laravel+%7C+Docker;Люблю+решать+сложные+задачи" alt="Typing SVG" />
@@ -63,5 +63,4 @@
   <blockquote>
     <p>"Код — как юмор. Если его приходится объяснять, значит, что-то не так."</p>
   </blockquote>
-  <p>⭐️ From <b>Тимур Каменев</b> с 💚</p>
 </div>
